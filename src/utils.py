@@ -8,8 +8,8 @@ def print_dataset_info(X, y):
 import requests
 
 from datetime import datetime
-BOT_TOKEN = "8735540500:AAGjJIRgeKlLLOXlNmDTOJg-JxVaLkmTVdU"
-CHAT_ID = "7133167053"
+BOT_TOKEN =" "
+CHAT_ID = " "
 
 last_alert_time = 0
 ALERT_COOLDOWN = 30
