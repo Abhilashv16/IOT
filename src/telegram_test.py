@@ -1,7 +1,7 @@
 import requests
 
 BOT_TOKEN = "8735540500:AAGjJIRgeKlLLOXlNmDTOJg-JxVaLkmTVdU"
-CHAT_ID = "7133167053"
+CHAT_ID = " "
 
 message = "PRESENCE DETECTED"
 
